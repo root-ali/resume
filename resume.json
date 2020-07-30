@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "Ali Soltani",
+    "label": "DevOps Engineer",
+    "email": "soltaniam@hotmail.com",
+    "phone": "+989153239343",
+    "website": "http://ali-soltani.ir",
+    "summary": "Skilled DevOps Engineer with 5+ years of hands-on experience  supporting, automating, and optimizing mission critical deployments in  production with linux and container and VMs, leveraging configuration management, CI/CD, and DevOps processes.",
+    "location": {
+      "address": "imam khomeini Blv , imam khomeini 93 , No. 93",
+      "city": "Mashhad",
+      "countryCode": "IR",
+      "region": "Khorasan"
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "Ali Soltani",
+        "url": "https://www.linkedin.com/in/ali-soltani-54594ab3/"
+      },   
+      {
+        "network": "github",
+        "username": "root-ali",
+        "url": "https://github.com/root-ali"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Mashhad Washer",
+      "position": "System Administrator",
+      "website": "https://mashadwasher.com/",
+      "startDate": "2013-12-01",
+      "endDate": "2014-05-01",
+      "summary": "MASHAD WASHER CO. is located in Mashhad, Iran. Company is working in Hardware Stores business activities.",
+      "highlights": [
+        "Managing Windows Clients",
+        "Administration Active Directory",
+        "Administration Exchange Service",
+        "Managing VOIP"
+      ]
+    },
+    {
+      "company" : "MURL2",
+      "position" : "System Administrator",
+      "website" : "https://www.murco.ir",
+      "startDate" : "2014-07-01",
+      "endDate" : "2015-11-01",
+      "summary" : "Farab (Private Joint Stock), as a skilled and responsible general contractor, has tried to move toward excellence since 1992. Having successfully completing more than 30 projects, Farab is currently working on different domestic and international projects in a wide variety of fields such as hydro power plants, thermal power plants, oil, gas, petrochemical projects, railway industries, civil works, smart grid, water treatment plants, water desalination plants, and operation and maintenance of power plants.",
+      "highlights" : [
+       "Network Administration and site to site tunnel",
+       "Administration Active Directory",
+       "Managing Windows Clients"
+      ]
+    },
+    {
+      "company" : "Part Software Group",
+      "position" : "DevOps Engineer",
+      "website" : "https://www.partdp.ir",
+      "startDate" : "2015-12-01",
+      "summary" : "Our story began with a small group of tech-enthusiasts and software developers, willing to make a dramatic impact on financial industry. We joined each other and soon our small group grew in size and scale. As a young, dynamic and also creative community, we know no boundaries to develop and expand technology. Our thirst for learning and education will never be quenched. Not only do we recruit skilled software developers and financial professionals, but also we provide the potential talents with perfect opportunity to flourish.",
+      "highlights" : [
+       "Network Administration and site to site tunnel",
+       "Administration Active Directory",
+       "Managing Windows Clients",
+       "Managing Linux VM in production",
+       "Managing VMWare Hypervisor",
+       "Network Administratio",
+       "Devops Engineer and Managing Application and CD pipeline in production",
+       "Monitoring the stack of company with zabbix and grafana",
+       "Centerelized logs with graylog"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Imam Hossien",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2009-06-01",
+      "endDate": "2013-06-01",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    },
+    {
+      "institution": "University of Malek Ashtar",
+      "area": "Secure Computing",
+      "studyType": "Master",
+      "startDate": "2018-06-01",
+      "endDate": "2020-06-01",
+      "courses": [
+        "Secure Web Development",
+        "Network Security",
+        "Database Security",
+        "Secure Protocol"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Sysadmin and IT Pro",
+      "level": "Advanced",
+      "keywords": [
+        "Container",
+        "Mongodb",
+        "redis",
+        "Docker",
+        "Linux",
+        "VMware",
+        "Grafana",
+        "influxdb",
+        "gitlab-ci",
+        "Jenkins" ,
+        "Ansible",
+        "VMWare/ESX, Hyper-V, Parallels",
+        "Shell Scripting",
+        "Devops"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Level: Hacker for Good",
+      "keywords": [
+        "JavaScript",
+        "Node.js",
+        "Rust"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Working Knowledge"
+    }
+  ]
+}
