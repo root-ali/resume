@@ -58,6 +58,7 @@
       "position" : "DevOps Engineer",
       "website" : "https://www.partdp.ir",
       "startDate" : "2015-12-01",
+      "endDate" : "2020-10-22",
       "summary" : "Our story began with a small group of tech-enthusiasts and software developers, willing to make a dramatic impact on financial industry. We joined each other and soon our small group grew in size and scale. As a young, dynamic and also creative community, we know no boundaries to develop and expand technology. Our thirst for learning and education will never be quenched. Not only do we recruit skilled software developers and financial professionals, but also we provide the potential talents with perfect opportunity to flourish.",
       "highlights" : [
        "Network Administration and site to site tunnel",
@@ -69,6 +70,24 @@
        "Devops Engineer and Managing Application and CD pipeline in production",
        "Monitoring the stack of company with zabbix and grafana",
        "Centerelized logs with graylog"
+      ]
+    },
+    {
+      "company" : "Radar Faratech Hooshmand",
+      "position" : "DevOps Engineer",
+      "website" : "https://www.radargps.org",
+      "startDate" : "2020-10-22",
+      "summary": "Radar is location data infrastructure. We are a small group of tech-ethusiastis with vision to build a safe and secure tracking application.",
+      "highlights" : [
+       "Network Administration and site to site tunnel",
+       "Managing Linux VM in production",
+       "Managing VMWare Hypervisor",
+       "Network Administratio",
+       "Devops Engineer and Managing Application and CD pipeline in production",
+       "Monitoring the stack of company with zabbix and grafana",
+       "Centerelized logs with graylog",
+       "Create and manage systems and services in the cloud: site-to-site VPN's, proxys, backups, caching, CDN, PaaS, IaaS, CI/CD, git-based deployments, webhook automation, autoscaling, cloud monitoring, and central logging.",
+       "Running and Managing Kubernetes orchestration in producion"
       ]
     }
   ],
