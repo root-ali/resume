@@ -6,12 +6,6 @@
     "phone": "+989153239343",
     "website": "http://ali-soltani.ir",
     "summary": "Skilled DevOps Engineer with 5+ years of hands-on experience  supporting, automating, and optimizing mission critical deployments in  production with linux and container and VMs, leveraging configuration management, CI/CD, and DevOps processes.",
-    "location": {
-      "address": "imam khomeini Blv , imam khomeini 93 , No. 93",
-      "city": "Mashhad",
-      "countryCode": "IR",
-      "region": "Khorasan"
-    },
     "profiles": [
       {
         "network": "linkedin",
@@ -82,7 +76,23 @@
        "Network Administration and site to site tunnel",
        "Managing Linux VM in production",
        "Managing VMWare Hypervisor",
-       "Network Administratio",
+       "Network Administration",
+       "Devops Engineer and Managing Application and CD pipeline in production",
+       "Monitoring the stack of company with zabbix and grafana",
+       "Centerelized logs with graylog",
+       "Create and manage systems and services in the cloud: site-to-site VPN's, proxys, backups, caching, CDN, PaaS, IaaS, CI/CD, git-based deployments, webhook automation, autoscaling, cloud monitoring, and central logging.",
+       "Running and Managing Kubernetes orchestration in producion"
+      ]
+    },
+    {
+      "company" : "JIBit",
+      "position" : "DevOps Engineer",
+      "website" : "https://www.jibit.ir",
+      "startDate" : "2021-10-22",
+      "summary": "Jibit is a tech company, aiming to remove financial complexity through building: - Fintech infrastructure solutions, - Enterprise financial services, - Smart payments solutions for startups.",
+      "highlights" : [
+       "Managing Linux VM in production",
+       "Managing VMWare Hypervisor",
        "Devops Engineer and Managing Application and CD pipeline in production",
        "Monitoring the stack of company with zabbix and grafana",
        "Centerelized logs with graylog",
@@ -142,9 +152,9 @@
       "name": "Web Development",
       "level": "Level: Hacker for Good",
       "keywords": [
-        "JavaScript",
-        "Node.js",
-        "Rust"
+        "Node.JS",
+        "python",
+        "golang"
       ]
     }
   ],
