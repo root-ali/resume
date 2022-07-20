@@ -71,6 +71,7 @@
       "position" : "DevOps Engineer",
       "website" : "https://www.radargps.org",
       "startDate" : "2020-10-22",
+      "endDate": "2021-10-22",
       "summary": "Radar is location data infrastructure. We are a small group of tech-ethusiastis with vision to build a safe and secure tracking application.",
       "highlights" : [
        "Network Administration and site to site tunnel",
